@@ -1,0 +1,16 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# JSON 파일
+*.json
+
+# 텍스트 파일
+*.txt
+
+# 엑셀 파일
+*.xlsx
+
+# CSV 파일 (users_filtered.csv 제외)
+*.csv
+!users_filtered.csv
