@@ -109,7 +109,22 @@
 ---
 
 ## 3. Python 설치
+📋 설치 방법 (2가지 중 선택)
 
+- 방법 1: Anaconda 설치 
+
+**Anaconda 하나만 설치하면 Python + Jupyter + 기본 패키지가 모두 설치됩니다.**
+
+**다운로드**: https://www.anaconda.com/download
+
+**설치 후 확인:**
+```bash
+python --version
+jupyter --version
+```
+
+---
+- 방법 2
 ### 3.1 Python 다운로드
 
 1. **공식 웹사이트 접속**
@@ -171,6 +186,11 @@
    ```
    pip 24.0 from C:\Users\...\Python311\Lib\site-packages\pip (python 3.11)
    ```
+
+### Jupyter Notebook 설치
+```bash
+pip install jupyter
+```
 
 > ❌ **오류 발생 시**: "'python'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램..."
 > 
