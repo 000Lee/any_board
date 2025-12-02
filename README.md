@@ -327,7 +327,7 @@ pip install --upgrade selenium beautifulsoup4 lxml pandas openpyxl pymysql sqlal
 ---
 
 ## 8. 스크립트 상세 설명
-
+- 'DB업로드_ 게시판이름' 으로 되어있는 폴더의 ipynb 파일들을 실행해야하며 각 파일들과 같은 위치에 users_filtered.csv가 위치해있어야합니다.
 ### 8.1 any_board_crawling_게시판_251113.ipynb (게시판 크롤러)
 
 #### 역할
